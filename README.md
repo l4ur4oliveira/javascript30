@@ -8,3 +8,4 @@ Projeto com os arquivos do curso [JavaScript30](https://JavaScript30.com).
 - [Day 04 - Array Cardio 1](https://github.com/l4ur4oliveira/javascript30/tree/main/start-files/04%20-%20Array%20Cardio%20Day%201)
 - [Day 05 - Flex Panel Gallery](https://github.com/l4ur4oliveira/javascript30/tree/main/start-files/05%20-%20Flex%20Panel%20Gallery)
 - [Day 06 - Type Ahead](https://github.com/l4ur4oliveira/javascript30/tree/main/start-files/06%20-%20Type%20Ahead)
+- [Day 07 - Array Cardio 2](https://github.com/l4ur4oliveira/javascript30/tree/main/start-files/07%20-%20Array%20Cardio%20Day%202)
